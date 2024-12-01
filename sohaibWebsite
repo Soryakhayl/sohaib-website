@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sohaib Oryakhayl's Personal Website</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Sohaib Oryakhayl's Website!</h1>
+    <p>Hi there! My name is Sohaib Oryakhayl. Thanks for visiting my page!</p>
+</body>
+</html>
